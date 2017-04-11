@@ -8,5 +8,5 @@
     <com.example.miku.customviewtest.CustomView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="#ff0000" />
+        android:background="#CCCCCC" />
 </RelativeLayout>
